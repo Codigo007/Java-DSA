@@ -1,0 +1,37 @@
+[33mcommit 0e9c283d16cceb14179d622469e12bfd403b3dec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Fri Dec 30 10:11:10 2022 +0530
+
+    surnames.txt file deleted
+
+[33mcommit 6b370f7cb6180e406a20a6e46fe1185752308d0e[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Fri Dec 30 10:07:46 2022 +0530
+
+    names.txt file deleted
+
+[33mcommit 6584b4575084836040ff30ffe1697603b1f32342[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Fri Dec 30 10:02:25 2022 +0530
+
+    call.txt file deleted
+
+[33mcommit cde8c394f0599dcc662a0a0608c091b91bcbc489[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Fri Dec 30 09:58:48 2022 +0530
+
+    call.txt file deleted
+    
+    git commit -m "call.txt file deleted"
+
+[33mcommit 6a4b9e17565d24413d3036d5bc1aa8567948aa03[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Thu Dec 29 21:45:37 2022 +0530
+
+    names.txt file modified
+
+[33mcommit 3c23726ba81f8bec0f70410ecb043d78cd2433ca[m
+Author: Vamsi Krishna <kakarlagruham@gmail.com>
+Date:   Thu Dec 29 21:11:51 2022 +0530
+
+    names.txt file added
